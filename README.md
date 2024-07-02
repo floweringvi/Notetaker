@@ -31,7 +31,7 @@ For this project, the documentation provided by the bootcamp and the previous ex
 
    ##Testing 
 
-   Fetch or Pull from the repo located here:  and run the program yourself as highlighted in the intallation section of this README. 
+   Fetch or Pull from the repo located here: https://github.com/floweringvi/Notetaker  and run the program yourself as highlighted in the intallation section of this README. 
 
    ##Questions 
    
