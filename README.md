@@ -22,7 +22,7 @@ On this application, a user can take notes and have them saved both on the page 
 
   ##Usage 
 
-   By answering questions you've been prompted to answer, you will build your own personal README for your own project.  
+   Write notes and have them saved right on the webpage, have them also pushed to a background JSON file!
    ![Screenshot of webpage](tbd)
 
   ##Contributors
