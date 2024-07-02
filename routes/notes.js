@@ -5,3 +5,4 @@ notes.get('/', (req, res) => {
     fs.readFile('./db/notes.json').then((data) => res.json(JSON.parse(data)))
 });
 
+notes.post()
