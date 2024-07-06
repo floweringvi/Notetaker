@@ -23,7 +23,8 @@ On this application, a user can take notes and have them saved both on the page 
   ##Usage 
 
    Write notes and have them saved right on the webpage, have them also pushed to a background JSON file!
-   ![Screenshot of webpage](tbd)
+   Visit the application, https://notetaker-1eoi.onrender.com/ here!
+   ![Screenshot of webpage](./public/assets/images/Screenshot%202024-07-06%20at%2011.58.05 AM.png)
 
   ##Contributors
 
